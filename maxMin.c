@@ -61,3 +61,8 @@ void main() {
 
     getch();
 }
+
+/*maxMin.c
+Problem: Max-Min using Divide & Conquer
+Time Complexity: O(n)
+*/

@@ -42,3 +42,9 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+
+/*activity.c
+Problem: Activity Selection (Greedy)
+Time Complexity: O(n log n)
+(due to sorting based on finish times)
+ */

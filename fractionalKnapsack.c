@@ -72,3 +72,10 @@ int main() {
     //getch(); // Wait for a key press in Turbo C
     return 0;
 }
+
+/*
+fractionalKnapsack.c
+Problem: Fractional Knapsack
+Time Complexity: O(n log n)
+(due to sorting by value/weight ratio)
+*/

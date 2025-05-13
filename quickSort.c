@@ -68,3 +68,11 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+/*quickSort.c
+Problem: Quick Sort
+Time Complexity:
+
+Best/Average: O(n log n)
+
+Worst: O(n^2)
+*/

@@ -64,3 +64,8 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+/*coinDP.c
+Problem: Coin Change (DP - total ways)
+Time Complexity: O(n * amount)
+(n = number of coins)
+*/

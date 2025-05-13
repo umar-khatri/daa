@@ -80,3 +80,10 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+
+/*
+graphColor.c
+Problem: Graph Coloring (Backtracking)
+Time Complexity: O(m^V)
+(m = number of colors, V = vertices)
+*/

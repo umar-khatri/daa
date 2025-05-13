@@ -71,3 +71,12 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+/*
+prims.c
+Problem: Prim’s MST Algorithm
+Time Complexity:
+
+O(V^2) (with adjacency matrix)
+
+O((V + E) log V) (with min-heap)
+*/

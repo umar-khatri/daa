@@ -48,3 +48,9 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+
+/*naivString.c
+Problem: Naive String Matching
+Time Complexity: O((n - m + 1) * m)
+(n = length of text, m = length of pattern)
+*/

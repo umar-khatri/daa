@@ -83,3 +83,8 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+
+/*mergeSort.c
+Problem: Merge Sort
+Time Complexity: O(n log n)
+*/

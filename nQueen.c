@@ -95,3 +95,8 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+/*
+nQueen.c
+Problem: N-Queens Problem (Backtracking)
+Time Complexity: O(N!)
+*/

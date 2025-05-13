@@ -63,3 +63,8 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+/*dijkstras.c
+Problem: Dijkstra’s Algorithm
+Time Complexity: O((V + E) log V) with min-heap
+or O(V^2) with an adjacency matrix
+*/

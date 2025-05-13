@@ -65,3 +65,9 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+/*
+lcs.c
+Problem: Longest Common Subsequence
+Time Complexity: O(m * n)
+(m, n = lengths of the two strings)
+*/

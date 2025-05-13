@@ -52,3 +52,8 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+/*coinGreedy.c
+Problem: Coin Change (Greedy approach)
+Time Complexity: O(n)
+(depends on the number of denominations)
+*/

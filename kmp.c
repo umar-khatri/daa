@@ -81,3 +81,10 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+
+/*kmp.c
+Problem: KMP Pattern Matching
+Time Complexity: O(n + m)
+(n = length of text, m = length of pattern)
+
+*/

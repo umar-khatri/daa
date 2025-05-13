@@ -55,3 +55,8 @@ int main() {
     //getch(); // Wait for a key press in Turbo C
     return 0;
 }
+
+/*01knapsack.c
+Problem: 0/1 Knapsack (DP)
+Time Complexity: O(n * W)
+(n = number of items, W = capacity)*/

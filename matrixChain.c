@@ -52,3 +52,9 @@ int main() {
     getch(); // Wait for a key press in Turbo C
     return 0;
 }
+/*
+matrixChain.c
+Problem: Matrix Chain Multiplication (DP)
+Time Complexity: O(n^3)
+(n = number of matrices + 1)
+*/

@@ -76,3 +76,11 @@ int main() {
     //getch(); // Wait for a key press in Turbo C
     return 0;
 }
+
+/*rabinKarp.c
+Problem: Rabin-Karp String Matching
+Time Complexity:
+
+Average: O(n + m)
+
+Worst: O(n * m)*/
